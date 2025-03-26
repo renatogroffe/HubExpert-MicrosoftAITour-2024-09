@@ -15,12 +15,12 @@ Invite da Microsoft solicitando minha participação no **Hub Expert**:
 
 Fotos no evento:
 
-![Renato no Microsoft AI Tour](img/a-05.jpg)
+![Renato no Microsoft AI Tour 1](img/a-05.jpg)
 
-![Renato no Microsoft AI Tour](img/a-04.jpg)
+![Renato no Microsoft AI Tour 2](img/a-04.jpg)
 
-![Renato no Microsoft AI Tour](img/a-01.jpg)
+![Renato no Microsoft AI Tour 3](img/a-01.jpg)
 
-![Renato no Microsoft AI Tour](img/a-02.jpg)
+![Renato no Microsoft AI Tour 4](img/a-02.jpg)
 
-![Renato no Microsoft AI Tour](img/a-03.jpg)
+![Renato no Microsoft AI Tour 5](img/a-03.jpg)
