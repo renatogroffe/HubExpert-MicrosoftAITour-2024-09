@@ -3,7 +3,7 @@ Fotos e informações gerais sobre minha participação no Hub Expert, durante o
 
 Público que passou pelo espaço: **50 participantes (estimativa)**
 
-Durante o evento respondi principalmente questionamentos sobre certificações, com destaque para exames como:
+Durante o evento respondi principalmente questionamentos sobre **Certificações Microsoft**, com destaque para exames como:
 Foram abordadas as seguintes certificações durante o evento:
 - **AZ-900: Azure Fundamentals**
 - **AZ-204: Azure Developer Associate**
@@ -12,6 +12,7 @@ Foram abordadas as seguintes certificações durante o evento:
 - **AI-900: Azure AI Fundamentals**
 - **AI-102: Azure AI Engineer Associate**
 - **DP-900: Azure Data Fundamentals**
+- **PL-900: Power Platform Fundamentals**
 - **AZ-305: Designing Microsoft Azure Infrastructure Solutions**
 
 Local: **Transamerica Expo Center - Av. Dr. Mário Vilas Boas Rodrigues, 387 - Santo Amaro - São Paulo - SP - CEP: 04757-020**
