@@ -9,16 +9,16 @@ Deixo aqui meu agradecimentos à **Microsoft**, em especial ao **Victor Temple**
 
 Invite da Microsoft solicitando minha participação no **Hub Expert**:
 
-![Invite](img/email-invite-ai-tour-2024-09.png)
+![Invite - Renato](img/email-invite-ai-tour-2024-09.png)
 
 Fotos no evento:
 
-5
+![Renato no Microsoft AI Tour](img/a-05.jpg)
 
-4
+![Renato no Microsoft AI Tour](img/a-04.jpg)
 
-1
+![Renato no Microsoft AI Tour](img/a-01.jpg)
 
-2
+![Renato no Microsoft AI Tour](img/a-02.jpg)
 
-3
+![Renato no Microsoft AI Tour](img/a-03.jpg)
