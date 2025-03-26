@@ -5,6 +5,8 @@ Fotos e informações gerais sobre minha participação no Hub Expert, durante o
 
 Público que passou pelo espaço: **50 participantes (estimativa)**
 
+Local: **Transamerica Expo Center - Av. Dr. Mário Vilas Boas Rodrigues, 387 - Santo Amaro - São Paulo - SP - CEP: 04757-020**
+
 Deixo aqui meu agradecimentos à **Microsoft**, em especial ao **Victor Temple** e à **Larissa Cyganski** pela oportunidade e todo o apoio para que eu participasse do Hub Expert nesta edição do **Microsoft AI Tour** em **São Paulo-SP**.
 
 Invite da Microsoft solicitando minha participação no **Hub Expert**:
