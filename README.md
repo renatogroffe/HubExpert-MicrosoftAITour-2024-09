@@ -4,7 +4,6 @@ Fotos e informações gerais sobre minha participação no Hub Expert, durante o
 Público que passou pelo espaço: **50 participantes (estimativa)**
 
 Durante o evento respondi principalmente questionamentos sobre **Certificações Microsoft**, com destaque para exames como:
-Foram abordadas as seguintes certificações durante o evento:
 - **AZ-900: Azure Fundamentals**
 - **AZ-204: Azure Developer Associate**
 - **AZ-104: Azure Administrator Associate**
